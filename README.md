@@ -31,7 +31,7 @@
 
 1. 🖱️ Open **Visual Studio 2022**
 2. 📂 Click **File** → **Open** → **Project/Solution**
-3. 🔍 Navigate to `221152725_NCUBE_CC1/SoccerTeamStrategySimulator.sln`
+3. 🔍 Navigate to `SoccerTeamStrategySimulator.sln`
 4. ✅ Click **Open**
 5. 🏃 Press **Ctrl + F5** to run without debugging
 6. 🐛 Press **F5** to run with debugging
