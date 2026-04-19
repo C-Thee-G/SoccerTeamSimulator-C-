@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/docs/" />
+  <Project Path="SoccerTeamSimulator.vcxproj" Id="0a5776dd-e767-49d6-999e-ff8f6c4afb41" />
+</Solution>
